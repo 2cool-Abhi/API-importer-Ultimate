@@ -3,12 +3,16 @@ API Collection Importer - Ultimate Edition is a Burp Suite extension written in 
 
 #**Key Features**
 **Postman Collection Importer**
+
 Load Postman v2/v2.1 JSON collections and environment files. All endpoints are parsed and displayed in a searchable, sortable table with live request preview.
 **Burp Suite Integration**
+
 Send any endpoint to Repeater, Intruder, or the Target Site Map with a single click. Supports bulk operations across the entire collection.
 **API Endpoint Fuzzer**
+
 Fuzz a target host with a custom wordlist .txt file. Multi-threaded execution with configurable thread count, status code filtering, and live progress tracking.
 **Global Authorization Manager**
+
 Inject a Bearer token into every request (collection importer + fuzzer) globally. Masked password field with show/hide toggle and live ACTIVE/OFF status badge.
 
 #**Requirements**
