@@ -36,14 +36,10 @@ OS	Windows, macOS, or Linux	Tested on Windows 10/11 and Ubuntu 22.04
 #**Setup & Installation**
 
 
-Open Burp Suite
-
-Go to Extender → Extensions
-
-Add extension
-
-Type = Python
-
-Select API importer Ultimate.py
-Make sure Jython is configured in Extender → Options
-Add the target domain in Host scope before using this extension, so that you get all the relevant information.
+1). Open Burp Suite
+2). Go to Extender → Extensions
+3). Add extension
+4). Type = Python
+5). Select API importer Ultimate.py
+6). Make sure Jython is configured in Extender → Options
+7). Add the target domain in Host scope before using this extension, so that you get all the relevant information.
