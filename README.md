@@ -22,24 +22,26 @@ Inject a Bearer token into every request (collection importer + fuzzer) globally
 #**Requirements**
 
 
-Burp Suite	Community or Professional	Version 2021.x or later recommended
-
-Jython	2.7.x standalone JAR	Required for running Python extensions in Burp
-
-Java	JDK 8 or later (JDK 11+ recommended)	Bundled with Burp Suite installer
-
-Python	2.7 (via Jython)	Extension uses Python 2 syntax throughout
-
-OS	Windows, macOS, or Linux	Tested on Windows 10/11 and Ubuntu 22.04
+-> Burp Suite	Community or Professional	Version 2021.x or later recommended
+-> Jython	2.7.x standalone JAR	Required for running Python extensions in Burp
+-> Java	JDK 8 or later (JDK 11+ recommended)	Bundled with Burp Suite installer
+-> Python	2.7 (via Jython)	Extension uses Python 2 syntax throughout
+-> OS	Windows, macOS, or Linux	Tested on Windows 10/11 and Ubuntu 22.04
 
 
 #**Setup & Installation**
 
 
 1). Open Burp Suite
+
 2). Go to Extender → Extensions
+
 3). Add extension
+
 4). Type = Python
+
 5). Select API importer Ultimate.py
+
 6). Make sure Jython is configured in Extender → Options
+
 7). Add the target domain in Host scope before using this extension, so that you get all the relevant information.
