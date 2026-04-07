@@ -22,10 +22,10 @@ Inject a Bearer token into every request (collection importer + fuzzer) globally
 #**Requirements**
 
 
--> Burp Suite	Community or Professional	Version 2021.x or later recommended
--> Jython	2.7.x standalone JAR	Required for running Python extensions in Burp
--> Java	JDK 8 or later (JDK 11+ recommended)	Bundled with Burp Suite installer
--> Python	2.7 (via Jython)	Extension uses Python 2 syntax throughout
+-> Burp Suite	Community or Professional	Version 2021.x or later recommended/n
+-> Jython	2.7.x standalone JAR	Required for running Python extensions in Burp/n
+-> Java	JDK 8 or later (JDK 11+ recommended)	Bundled with Burp Suite installer/n
+-> Python	2.7 (via Jython)	Extension uses Python 2 syntax throughout/n
 -> OS	Windows, macOS, or Linux	Tested on Windows 10/11 and Ubuntu 22.04
 
 
